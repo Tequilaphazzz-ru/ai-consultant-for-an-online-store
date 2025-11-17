@@ -59,22 +59,22 @@
 ## Примеры интерфейса
 
 ### Пример 1: Главная страница интернет-магазина
-![Homepage](https://github.com/Tequilaphazzz/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_1.png)
+![Homepage](https://github.com/Tequilaphazzz-ru/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_1.png)
 
 ### Пример 2: Работа Telegram-бота
-![Bot Operation](https://github.com/Tequilaphazzz/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_2.png)
+![Bot Operation](https://github.com/Tequilaphazzz-ru/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_2.png)
 
 ### Пример 3: Каталог товаров
-![Product Catalog](https://github.com/Tequilaphazzz/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_29.png)
+![Product Catalog](https://github.com/Tequilaphazzz-ru/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_29.png)
 
 ### Пример 4: Интеграция платформ
-![Platform Integration](https://github.com/Tequilaphazzz/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_3.png)
+![Platform Integration](https://github.com/Tequilaphazzz-ru/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_3.png)
 
 ### Пример 5: Конфигурация бота
-![Bot Configuration](https://github.com/Tequilaphazzz/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_4.png)
+![Bot Configuration](https://github.com/Tequilaphazzz-ru/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_4.png)
 
 ### Пример 6: Уведомления о заказах
-![Order Notifications](https://github.com/Tequilaphazzz/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_5.png)
+![Order Notifications](https://github.com/Tequilaphazzz-ru/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_5.png)
 
 ## Инструкции по запуску
 
