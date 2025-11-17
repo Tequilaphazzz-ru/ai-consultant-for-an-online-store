@@ -1,90 +1,107 @@
-# Online Store with AI Consultant
+# Интернет-магазин с ИИ-консультантом
 
-This project demonstrates the creation of an online store with AI consultant integration, based on the Telegram and ChatGPT platforms. The store is designed to automate customer interactions, enhance user experience, and increase conversions. The project covers the entire process: from account creation and content generation to functionality testing.
+Этот проект демонстрирует создание интернет-магазина с интеграцией ИИ-консультанта, основанного на платформах Telegram и ChatGPT. Магазин предназначен для автоматизации взаимодействия с клиентами, улучшения пользовательского опыта и увеличения конверсии. Проект охватывает весь процесс: от создания аккаунтов и генерации контента до тестирования функциональности.
 
-## Key Features
-- **AI Consultant**:
-  - Answers customer questions in real-time.
-  - Recommends products and services.
-  - Maintains a friendly and professional communication style.
-- **Content Generation**:
-  - Use of ChatGPT for automatic generation of product descriptions, categories, and promotional materials.
-  - Creation of catalog images using DALL-E or MidJourney.
-- **Order Management**:
-  - Integration of order notifications.
-  - Ability to configure product categories, shipping, and discounts.
-- **Platform Integration**:
-  - Use of SendPulse for setting up the bot and interacting with clients.
-  - Rebus platform for managing products and orders.
+## Ключевые возможности
 
-## Technologies Used
-- **Telegram**: Tool for client interaction via bot.
-- **ChatGPT (OpenAI)**: For processing client requests and generating content.
-- **SendPulse**: For bot setup and management.
-- **Rebus**: For creating and managing the online store.
-- **DALL-E / MidJourney**: For generating product images.
+  * **ИИ-консультант**:
+      * Отвечает на вопросы клиентов в режиме реального времени.
+      * Рекомендует товары и услуги.
+      * Поддерживает дружелюбный и профессиональный стиль общения.
+  * **Генерация контента**:
+      * Использование ChatGPT для автоматической генерации описаний товаров, категорий и промо-материалов.
+      * Создание изображений для каталога с помощью DALL-E или MidJourney.
+  * **Управление заказами**:
+      * Интеграция уведомлений о заказах.
+      * Возможность настройки категорий товаров, доставки и скидок.
+  * **Интеграция с платформами**:
+      * Использование SendPulse для настройки бота и взаимодействия с клиентами.
+      * Платформа Rebus для управления товарами и заказами.
 
-## Project Creation Stages
-1. **Account Preparation**:
-   - Registration on SendPulse and account setup.
-   - Creation of a Telegram bot via BotFather.
-   - Setting up OpenAI API keys and integration with platforms.
+## Используемые технологии
 
-2. **Content Generation**:
-   - Using ChatGPT to create product descriptions, categories, and promotional materials.
-   - Generating images using DALL-E or MidJourney.
-   - Uploading the created content to Rebus.
+  * **Telegram**: Инструмент для взаимодействия с клиентами через бота.
+  * **ChatGPT (OpenAI)**: Для обработки запросов клиентов и генерации контента.
+  * **SendPulse**: Для настройки и управления ботом.
+  * **Rebus**: Для создания и управления интернет-магазином.
+  * **DALL-E / MidJourney**: Для генерации изображений товаров.
 
-3. **AI Consultant Setup**:
-   - Configuration of welcome messages and communication style.
-   - Adding product knowledge to the bot’s system prompt.
-   - Configuring integrations to handle requests.
+## Этапы создания проекта
 
-4. **Online Store Integration**:
-   - Creation and configuration of the product catalog in Rebus.
-   - Adding features for mailing, order management, and notifications.
+1.  **Подготовка аккаунтов**:
 
-5. **Testing**:
-   - Verification of correct bot operation, order placement, and notifications.
-   - Conducting test orders to verify the entire system.
+      * Регистрация на SendPulse и настройка аккаунта.
+      * Создание Telegram-бота через @BotFather.
+      * Настройка API-ключей OpenAI и интеграция с платформами.
 
-## Interface Examples
+2.  **Генерация контента**:
 
-### Example 1: Online Store Homepage
+      * Использование ChatGPT для создания описаний товаров, категорий и промо-материалов.
+      * Генерация изображений с помощью DALL-E или MidJourney.
+      * Загрузка созданного контента в Rebus.
+
+3.  **Настройка ИИ-консультанта**:
+
+      * Конфигурация приветственных сообщений и стиля общения.
+      * Добавление знаний о продуктах в системный промпт бота.
+      * Настройка интеграций для обработки запросов.
+
+4.  **Интеграция интернет-магазина**:
+
+      * Создание и настройка каталога товаров в Rebus.
+      * Добавление функций для рассылок, управления заказами и уведомлений.
+
+5.  **Тестирование**:
+
+      * Проверка корректной работы бота, оформления заказов и уведомлений.
+      * Проведение тестовых заказов для проверки всей системы.
+
+## Примеры интерфейса
+
+### Пример 1: Главная страница интернет-магазина
 ![Homepage](https://github.com/Tequilaphazzz/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_1.png)
 
-### Example 2: Telegram Bot Operation
+### Пример 2: Работа Telegram-бота
 ![Bot Operation](https://github.com/Tequilaphazzz/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_2.png)
 
-### Example 3: Product Catalog
+### Пример 3: Каталог товаров
 ![Product Catalog](https://github.com/Tequilaphazzz/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_29.png)
 
-### Example 4: Platform Integration
+### Пример 4: Интеграция платформ
 ![Platform Integration](https://github.com/Tequilaphazzz/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_3.png)
 
-### Example 5: Bot Configuration
+### Пример 5: Конфигурация бота
 ![Bot Configuration](https://github.com/Tequilaphazzz/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_4.png)
 
-### Example 6: Order Notifications
+### Пример 6: Уведомления о заказах
 ![Order Notifications](https://github.com/Tequilaphazzz/ai-consultant-for-an-online-store/blob/main/screenshots/Screenshot_5.png)
 
-## Launch Instructions
-1. Create accounts on the SendPulse and Rebus platforms.
-2. Set up a Telegram bot via BotFather.
-3. Obtain an OpenAI API key and configure integration with SendPulse.
-4. Use ChatGPT to create product descriptions and generate content.
-5. Configure categories, products, and notifications in Rebus.
-6. Launch the bot, test it, and ensure the system is functioning correctly.
+## Инструкции по запуску
 
-## Project Advantages
-- **Full Automation**: The AI bot processes requests and assists clients in real-time.
-- **Integration of Modern Technologies**: Use of AI to increase the convenience and accuracy of data processing.
-- **Scalability**: The system can be adapted for any business task and market.
+1.  Создайте аккаунты на платформах SendPulse и Rebus.
 
-## Potential Improvements
-- Add support for other messengers (WhatsApp, Viber).
-- Integration with CRM for client data analysis.
-- Expansion of bot capabilities, including voice commands via Whisper.
+2.  Настройте Telegram-бота через @BotFather.
 
-## Conclusion
-The project is a complete example of creating an online store with an AI consultant.
+3.  Получите API-ключ OpenAI и настройте интеграцию с SendPulse.
+
+4.  Используйте ChatGPT для создания описаний товаров и генерации контента.
+
+5.  Настройте категории, товары и уведомления в Rebus.
+
+6.  Запустите бота, протестируйте его и убедитесь в корректной работе системы.
+
+## Преимущества проекта
+
+  * **Полная автоматизация**: ИИ-бот обрабатывает запросы и помогает клиентам в режиме реального времени.
+  * **Интеграция современных технологий**: Использование ИИ для повышения удобства и точности обработки данных.
+  * **Масштабируемость**: Систему можно адаптировать под любые бизнес-задачи и рынки.
+
+## Возможные улучшения
+
+  * Добавить поддержку других мессенджеров (WhatsApp, Viber).
+  * Интеграция с CRM для анализа данных о клиентах.
+  * Расширение возможностей бота, включая голосовые команды через Whisper.
+
+## Заключение
+
+Проект является полным примером создания интернет-магазина с ИИ-консультантом.
